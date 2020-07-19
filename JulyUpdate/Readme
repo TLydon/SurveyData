@@ -1,0 +1,16 @@
+File includes names, parties, and states from US Senators and Governors.
+Variables are as follows
+"Name"
+"Party"
+"NetChg_90d" - Change in Net Approval over past 90 days as of July 19, 2020
+"App" - current Approval (Strong App + Somewhat App)
+"Dis" - current Disapproval
+"rec.StrA" - Strong Approval
+"rec.SomA" - Somewhat Approval
+"rec.SomD" - Somewhat Approval
+"rec.StrD" - Strong Approval
+"rec.DK" - Respondent's Don't Know
+"Peak" - Date which Net Approval has peaked in past 120 days
+"Bottom" - Date which Net Approval has bottomed in past 120 days
+"MaxNA" - Max Net Approval at Peak
+"MinNA" - Min Net Approval at Bottom
